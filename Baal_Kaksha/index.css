@@ -1,0 +1,39 @@
+
+.txt1{
+display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 110px;
+  border-radius: 4px;
+  height: 100px; 
+font-size: 16px;
+  padding: 10px;
+}
+.txt2{
+display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px; 
+}
+.btn1{
+display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 20px; 
+
+}
+.btn1:hover {
+  background-color:pink ;
+}
+.res {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 110px;
+  border-radius: 4px;
+  height: 100px; 
+font-size: 16px;
+  padding: 10px;
+}
+
+
